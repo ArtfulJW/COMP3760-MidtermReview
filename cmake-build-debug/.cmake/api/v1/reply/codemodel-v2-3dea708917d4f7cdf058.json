@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "D:/BCIT/BCIT-Level-3/COMP-3760/Midterm-Review/cmake-build-debug",
-		"source" : "D:/BCIT/BCIT-Level-3/COMP-3760/Midterm-Review"
+		"build" : "C:/Users/jj554/Documents/BCIT/CST-Level-3/COMP-3760/Midterm-Review/COMP3760-MidtermReview/cmake-build-debug",
+		"source" : "C:/Users/jj554/Documents/BCIT/CST-Level-3/COMP-3760/Midterm-Review/COMP3760-MidtermReview"
 	},
 	"version" : 
 	{
